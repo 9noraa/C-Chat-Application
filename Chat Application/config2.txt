@@ -1,0 +1,3 @@
+servport: 25100
+servhost: 0.0.0.0
+
